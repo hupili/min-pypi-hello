@@ -1,0 +1,2 @@
+include myhello README.txt
+recursive-include minpypihello/things *
