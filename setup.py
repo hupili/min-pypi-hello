@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='minpypihello',
-      version='1.0',
+      version='1.1',
       description='Minimal PyPI Package Example',
       author='Pili Hu',
       author_email='me@hupili.net',
