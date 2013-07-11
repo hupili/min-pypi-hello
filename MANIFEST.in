@@ -1,2 +1,2 @@
 include myhello README.txt README.md
-recursive-include minpypihello/things *
+recursive-include minpypihello/ *
