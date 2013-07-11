@@ -1,6 +1,6 @@
 # This is a module
 
-__version__ = "1.0"
+__version__ = "1.3"
 
 def funchello():
     print "Hello world from file '%s'" % __file__

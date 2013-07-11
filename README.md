@@ -6,12 +6,14 @@ A minimalist example of PyPI packaging.
 [view on GitHub](https://github.com/hupili/min-pypi-hello)
 )
 
-   * A module of called `minpypihello` that you can import and print a helloworld.
+   * A package called `minpypihello`, 
+   which contains a module called `modhello`.
+   You can import using `from minpypihello import modhello`.
    * A script that can be executed directly to print a helloworld message.
 
 ## 1. Check the Project and Study Files
 
-Run `./myhello` and see if it works as intended. 
+Run `./myhello` and see if it works as expected. 
 Navigate under this repo and see those files for an example layout.
 
     min-pypi-hello/
