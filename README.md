@@ -47,7 +47,7 @@ Test:
 
 Register: Use `python setup.py register` and go through the procedure as prompt. 
 
-Upload: `python setup.py upload`.
+Upload: `python setup.py sdist upload`.
 
 [more info.](http://docs.python.org/2/distutils/packageindex.html)
 
